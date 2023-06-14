@@ -1,6 +1,12 @@
-#react-logo { 
-    color: black;
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 }
   
+body {
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 100%;
+}
   
   
